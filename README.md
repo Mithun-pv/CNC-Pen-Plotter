@@ -13,15 +13,17 @@ A microcontroller-based CNC machine control system developed using Embedded C. T
 - Hardware-software integration
 
 ## Hardware Used
-- LPC2148 / PIC16F876A / AVR (use the actual MCU)
+
 - Stepper motor driver
 - Stepper motors
 - Power supply
-- Limit switches
+- Jumber pin
+- servo motor
+- Arduino Uno 
 
 ## Software Used
 - Embedded C
-- Keil uVision / MPLAB IDE (use the actual IDE)
+- 
 
 ## Project Structure
 ```
@@ -49,13 +51,6 @@ Source_Code/
 - Motor Control
 - Hardware Interfacing
 - Debugging
-
-## Images
-Add:
-- Circuit diagram
-- Hardware setup photos
-- CNC machine images
-- Simulation screenshots (if applicable)
 
 ## Author
 Mithun PV
