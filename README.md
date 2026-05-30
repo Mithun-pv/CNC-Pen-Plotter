@@ -52,5 +52,3 @@ Source_Code/
 - Hardware Interfacing
 - Debugging
 
-## Author
-Mithun PV
